@@ -8,7 +8,7 @@ Hi 👋, I'm Henry
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My toolbox:
 
