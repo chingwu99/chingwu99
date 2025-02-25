@@ -12,7 +12,7 @@ Hi 👋, I'm Henry
 
 ### My toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,sass,bootstrap,figma,express,mongodb,nodejs,prisma,pnpm&perline=3)](https://skillicons.dev)
 
 <!--
 **chingwu99/chingwu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
